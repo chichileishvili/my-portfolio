@@ -19,7 +19,7 @@ const ExperienceSection = () => {
                 <h3 className="text-xl font-semibold text-foreground">Software Engineer</h3>
                 <div className="flex items-center gap-2 text-muted-foreground text-sm">
                   <Calendar className="w-4 h-4" />
-                  <span>Jul 2023 – Present</span>
+                  <span>May 2023 – Present</span>
                 </div>
               </div>
               
