@@ -1,5 +1,5 @@
 import profilePhoto from "@/assets/profile-photo.jpg";
-import { Github, Linkedin, MapPin } from "lucide-react";
+import { Github, Linkedin, MapPin, Download } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -40,8 +40,16 @@ const HeroSection = () => {
               <span>Tbilisi, Georgia</span>
             </div>
 
-            {/* Social Links */}
-            <div className="flex items-center justify-center md:justify-start gap-4 pt-2">
+            {/* Social Links & CV Download */}
+            <div className="flex flex-wrap items-center justify-center md:justify-start gap-3 pt-2">
+              <a
+                href="/Giorgi_Tchitchileishvili_CV.pdf"
+                download="Giorgi_Tchitchileishvili_CV.pdf"
+                className="flex items-center gap-2 px-4 py-2 rounded-lg bg-accent text-accent-foreground hover:bg-accent/90 transition-colors"
+              >
+                <Download className="w-5 h-5" />
+                <span className="font-medium">Download CV</span>
+              </a>
               <a
                 href="https://github.com/chichileishvili"
                 target="_blank"
