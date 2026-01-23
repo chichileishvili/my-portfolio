@@ -31,7 +31,7 @@ const HeroSection = () => {
             </div>
 
             <p className="text-lg text-muted-foreground max-w-md leading-relaxed">
-              Full-stack engineer with 2.5 years of experience building scalable web applications. 
+              Full-stack engineer with 2.8 years of experience building scalable web applications. 
               Passionate about React, TypeScript, and creating exceptional user experiences.
             </p>
 
