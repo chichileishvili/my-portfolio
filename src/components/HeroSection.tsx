@@ -60,7 +60,7 @@ const HeroSection = () => {
                 <span className="font-medium">GitHub</span>
               </a>
               <a
-                href="https://linkedin.com/in/giorgi-tchitchileishvili"
+                href="https://www.linkedin.com/in/giorgi-tchitchileishvili-2a0770249/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 rounded-lg bg-secondary hover:bg-secondary/80 transition-colors"
