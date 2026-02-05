@@ -12,7 +12,7 @@ About Giorgi:
 - Age: 22 years old
 - Location: Tbilisi, Georgia
 - Role: Full-stack Software Engineer with 2.5 years of experience
-- Currently working at: Suada (EdTech platform) since July 2023, Remote
+- Currently working at: Suada (EdTech platform) January 2023 - January 2026, Remote
 
 Skills:
 - Frontend: React.js, TypeScript, Redux, Apollo GraphQL, Styled Components, Storybook, Component Architecture
