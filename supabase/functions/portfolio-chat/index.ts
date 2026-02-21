@@ -2,7 +2,7 @@
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
+  "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type, x-supabase-client-platform, x-supabase-client-platform-version, x-supabase-client-runtime, x-supabase-client-runtime-version",
 };
 
 const GIORGI_CONTEXT = `You are an AI assistant for Giorgi Tchitchileishvili's portfolio website. You help visitors learn about Giorgi.
@@ -11,7 +11,7 @@ About Giorgi:
 - Full name: Giorgi Tchitchileishvili
 - Age: 22 years old
 - Location: Tbilisi, Georgia
-- Role: Full-stack Software Engineer with 2.5 years of experience
+- Role: Full-stack Software Engineer with 2.7 years of experience
 - Currently working at: Suada (EdTech platform) January 2023 - January 2026, Remote
 
 Skills:
